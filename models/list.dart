@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class Cuaca {
   final int id;
   final String propinsi;

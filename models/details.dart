@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 class Details {
   final String jamcuaca;
   final String kodecuaca;
